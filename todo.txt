@@ -1,0 +1,40 @@
+    LANGUAGES
+----------------
+
+- html(fait)
+- css(fait)
+- js(fait)
+- php(fait)
+- git(fait)
+- python(fait)
+
+- tailwind css(fait)
+- svelte(fait)
+- react(fait)
+- vuejs(fait)
+- sveltekit
+- nextjs(fait)
+- nestjs(fait)
+- react native
+- laravel(fait)
+- flask(fait)
+- pocketbase(fait)
+- 
+
+- mysql(fait)
+- mongodb(fait)
+- pocketbase(fait)
+
+
+        PROJETS
+--------------------
+
+-   save
+-   rotten tomatoes
+-   dashboard
+-   showtime
+-   YOWL
+-   FREEADS
+-   post it
+-   intégration
+-   TWP
